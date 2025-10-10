@@ -28,6 +28,9 @@ My current research is focused on developing remote sensing methods for quantifi
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
+![satellite-remote-sensing](https://img.shields.io/badge/satellite--remote--sensing-7678ed?colorA=7678ed&colorB=7678ed)
+![sUAS-remote-sensing](https://img.shields.io/badge/sUAS--remote--sensing-f7b801?colorA=f7b801&colorB=f7b801)
+![field-work](https://img.shields.io/badge/field--work-f18701?colorA=f18701)
 <!--![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)-->
 <!--![Xarray](https://img.shields.io/badge/Xarray-0F4C81?logo=python&logoColor=white)-->
 
