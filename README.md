@@ -5,6 +5,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/allisonmwelch)
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0001--9684--7668-grey?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2314-7625)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-grey?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=hNdm8M8AAAAJ&hl=en&oi=ao)
+[![Personal Website](https://img.shields.io/badge/Personal-Website-abc4ff?colorA=abc4ff)](https://sites.uci.edu/allisonwelch/)
 
 ## 🧍‍♀️ About Me  
 
