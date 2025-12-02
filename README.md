@@ -38,7 +38,7 @@ My current research is focused on developing remote sensing methods for quantifi
 
 I've run two half-marathons and only puked during one of them!
 
-## 📞 Hit My Virtual Line  
+## 
 
 Message me on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/allisonmwelch) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=amwelch3@alaska.edu) amwelch3@alaska.edu with questions or collaborations!
 
